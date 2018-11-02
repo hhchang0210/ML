@@ -63,7 +63,7 @@ def plot_decision_boundary(clf, x, y):
     plt.show()
 
 class MyGaussianNB(object):
-    # implement 
+    # implement
 
     def __init__(self):
         pass
